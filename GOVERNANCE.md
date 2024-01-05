@@ -1,4 +1,4 @@
-# CYWARE Open Source Project Governance
+# TBD Open Source Project Governance
 
 <!-- TOC -->
 
@@ -10,7 +10,7 @@
 
 ## Contributors
 
-Anyone may be a contributor to CYWARE projects. Contribution may take the form of:
+Anyone may be a contributor to TBD projects. Contribution may take the form of:
 
 * Asking and answering questions on the Discord or GitHub Issues
 * Filing an issue
@@ -27,7 +27,7 @@ Maintainers have write access to GitHub repositories and act as project administ
 * Commit access to their project's repositories
 * Write access to continuous integration (CI) jobs
 
-Both maintainers and non-maintainers may propose changes to 
+Both maintainers and non-maintainers may propose changes to
 source code. The mechanism to propose such a change is a GitHub pull request. Maintainers review and merge (_land_) pull requests.
 
 If a maintainer opposes a proposed change, then the change cannot land. The exception is if the Governance Committee (GC) votes to approve the change despite the opposition. Usually, involving the GC is unnecessary.
@@ -47,7 +47,7 @@ See:
 
 ## Governance Committee
 
-The CYWARE Open Source Governance Committee (GC) has final authority over this project, including:
+The TBD Open Source Governance Committee (GC) has final authority over this project, including:
 
 * Technical direction
 * Project governance and process (including this policy)
@@ -58,10 +58,10 @@ The CYWARE Open Source Governance Committee (GC) has final authority over this p
 
 The current GC members are:
 
-* Ben Boeser, Technical Partnerships Lead, CYWARE
-* Angie Jones, Head of Developer Relations, CYWARE
-* Julie Kim, Head of Legal, CYWARE
+* Ben Boeser, Technical Partnerships Lead, TBD
+* Angie Jones, Head of Developer Relations, TBD
+* Julie Kim, Head of Legal, TBD
 * Nidhi Nahar, Head of Patents and Open Source, Block
-* Andrew Lee Rubinger, Head of Open Source, CYWARE
+* Andrew Lee Rubinger, Head of Open Source, TBD
 
-Members are not to be contacted individually. The GC may be reached through `cyware-open-source-governance@squareup.com` and is an available resource in mediation or for sensitive cases beyond the scope of project maintainers. It operates as a "Self-appointing council or board" as defined by Red Hat: [Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models).
+Members are not to be contacted individually. The GC may be reached through `tbd-open-source-governance@squareup.com` and is an available resource in mediation or for sensitive cases beyond the scope of project maintainers. It operates as a "Self-appointing council or board" as defined by Red Hat: [Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models).
